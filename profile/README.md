@@ -1,7 +1,9 @@
 <div id="toc">
   <ul style="list-style: none">
     <summary>
-      <img width="180" height="90" align="left" style="float: left; align-content: center; margin: 0 10px 0 0;" alt="GDGoC_at_INHA" src="https://github.com/GDGoCINHA/.github/blob/main/images/GDGoC.png" href="https://gdgocinha.com/"/>
+      <a href="https://gdgocinha.com/">
+        <img width="180" height="90" align="left" style="float: left; align-content: center; margin: 0 10px 0 0;" alt="GDGoC_at_INHA" src="https://github.com/GDGoCINHA/.github/blob/main/images/GDGoC.png" onclick="href='https://gdgocinha.com/'"/>
+      </a>
       <h1><a href="https://gdgocinha.com/">GDGoC at INHA</a></h1>
       <p>Google Developer Groups On Campus at INHA</p>
     </summary>
