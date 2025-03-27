@@ -1,7 +1,7 @@
 <div id="toc">
   <ul style="list-style: none">
     <summary>
-      <img width="250" height="120" align="left" style="float: left; align-content: center; margin: 0 10px 0 0;" alt="GDGoC_at_INHA" src="https://github.com/GDGoCINHA/blob/main/images/GDGoC.png"/>
+      <img width="250" height="120" align="left" style="float: left; align-content: center; margin: 0 10px 0 0;" alt="GDGoC_at_INHA" src="https://github.com/GDGoCINHA/.github/blob/main/images/GDGoC.png"/>
       <h1><a>GDGoC at INHA</a></h1>
       <p>Google Developer Groups On Campus at INHA</p>
     </summary>
@@ -9,14 +9,14 @@
 </div>
 
 # Our Mission
-**미션**은 GDSC INHA의 초심이자 존재하는 이유이고, 앞으로 나아가야할 방향입니다.
+**미션**은 GDGoC INHA의 초심이자 존재하는 이유이고, 앞으로 나아가야할 방향입니다.
 
 > 성장하길 원하는 인하대학교 학생들이 주체적으로 꿈을 실현시킬 수 있는 환경을 만들고, 사람들을 연결하여 새로운 가치를 창출한다.
 나에게 성장하길 원하는 동료들이 찾아오지 않는다면
 
 - 나와 나의 동료가 주체적으로 꿈을 실체화할 수 없다면
 - 나의 동료와 우리가 연결될 수 없다면
-- GDSC INHA에서 우리가 새로운 가치를 창출할 수 없다면
+- GDGoC INHA에서 우리가 새로운 가치를 창출할 수 없다면
 - 우리는 GDSC INHA의 존재 이유를 다시 한 번 돌아보아야 합니다.
 
 # Vison
@@ -32,4 +32,3 @@
 - **주체성과 책임** : 기획한 내용을 직접 실행하고, 결과를 책임짐으로써 성장한다.
 - **다양성 포용** : 각 구성원의 고유성을 인정하고, 이를 통해 서로의 강점을 존중하고 협력하여 발전한다.
 - **투명한 의사소통** : 솔직하고 인간적인 방식으로 소통하여 문제를 해결한다.
-
