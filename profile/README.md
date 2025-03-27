@@ -38,7 +38,7 @@
 |Design & Contents Team|브랜드와 이미지를 구축하고 이를 위한 디자인을 목적으로 하고 있습니다.|
 |Technology Team||
 
-# Main Project Repositories
+# 2025 Project Repositories
 |Project|Descriptions|
 |---|---|
 |[GDGoC at INHA Web FE](https://github.com/GDGoCINHA/24-2_GDGoC_Web)|FE of Main Webpage of GDGoC at INHA|
