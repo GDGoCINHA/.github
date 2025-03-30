@@ -38,7 +38,7 @@
 |Human Resources Management Team|인재를 발굴 및 채용하고 멤버들이 동아리 활동에 쉽게 적응할 수 있도록 돕습니다.|
 |Business Development Team|행사를 기획하고, 운영하며, 성장시키는 팀입니다.|
 |PR & Design Team|브랜드와 이미지를 구축하고 이를 위한 디자인을 목적으로 하고 있습니다.|
-|Technology Team||멤버들의 더욱 편리한 커뮤니티 생활을 위해 웹사이트를 개발합니다.|
+|Technology Team|멤버들의 더욱 편리한 커뮤니티 생활을 위해 웹사이트를 개발합니다.|
 
 # 2025 Project Repositories
 |Project|Descriptions|
