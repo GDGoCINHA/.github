@@ -45,6 +45,7 @@
 |---|---|
 |[GDGoC at INHA Web FE](https://github.com/GDGoCINHA/24-2_GDGoC_Web)|FE of Main Webpage of GDGoC at INHA|
 |[GDGoC at INHA Web BE](https://github.com/GDGoCINHA/24-2_GDGoC_Server)|BE of Main Webpage of GDGoC at INHA|
+|[GDGoC at INHA Solution Gallery](https://github.com/GDGoCINHA/Solution-Gallery)|GDGoC INHA Solution Challenge Gallery|
 |[Typing Game](https://github.com/GDGoCINHA/typing-game)|Speed Typing Game for 2025 Inha Univ. Club Exhibition introduction|
 
 # Contact Us
